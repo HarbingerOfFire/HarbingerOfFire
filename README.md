@@ -32,3 +32,5 @@ I'm also looking into Post-Quantum Cryptography, and I'll likely post a few repo
 ### Let's Connect!
 
 While I don't have any social media profiles at the moment, you can always find me here on GitHub. Stay tuned for updates, I might launch a personal website soon!
+
+<sub><sub>Created mostly by chatGPT cause I don't want to write this out myself</sub></sub>
