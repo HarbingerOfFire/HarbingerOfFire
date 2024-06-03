@@ -1,5 +1,5 @@
 # Hello, World! 👋
-
+[![Follow on GitHub](https://img.shields.io/github/followers/HarbingerOfFire?label=Follow&style=social)](https://github.com/HarbingerOfFire)
 ## About Me
 
 Hey there! I'm HarbingerOfFire, a self-taught back-end developer with a passion for security, encryption, and Python. When I'm not immersed in lines of code, you can usually find me exploring the latest trends in cybersecurity or tinkering with new encryption algorithms.
