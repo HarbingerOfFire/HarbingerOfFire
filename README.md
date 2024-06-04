@@ -34,3 +34,6 @@ I'm also looking into Post-Quantum Cryptography, and I'll likely post a few repo
 While I don't have any social media profiles at the moment, you can always find me here on GitHub. Stay tuned for updates, I might launch a personal website soon!
 
 <sub><sub>Created mostly by chatGPT cause I don't want to write this out myself</sub></sub>
+
+[![HarbingerOfFire's GitHub stats](https://github-readme-stats.vercel.app/api?username=harbingeroffire&rank_icon=github&theme=dark)](https://github.com/anuraghazra/github-readme-stats&theme=dark&rank_icon=github) <br>
+[![HarbingerOfFire's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=harbingeroffire&theme=dark)](https://github.com/anuraghazra/github-readme-stats&theme=dark)
