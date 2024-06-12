@@ -35,13 +35,8 @@ While I don't have any social media profiles at the moment, you can always find 
 
 <sub><sub>Created mostly by chatGPT cause I don't want to write this out myself</sub></sub>
 
-[![HarbingerOfFire's GitHub stats](https://github-readme-stats.vercel.app/api?username=harbingeroffire&rank_icon=github&theme=dark)](https://github.com/anuraghazra/github-readme-stats&theme=dark&rank_icon=github) <br>
-[![HarbingerOfFire's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=harbingeroffire&theme=dark)](https://github.com/anuraghazra/github-readme-stats&theme=dark)
+![github contribution grid snake animation](https://raw.githubusercontent.com/harbingeroffire/harbingeroffire/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/harbingeroffire/harbingeroffire/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
 
 ![](https://komarev.com/ghpvc/?username=harbingeroffire)
