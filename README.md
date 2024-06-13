@@ -1,5 +1,29 @@
 # Hello, World! 👋
-[![Follow on GitHub](https://img.shields.io/github/followers/HarbingerOfFire?label=Follow&style=social)](https://github.com/HarbingerOfFire)
+[![Follow on GitHub](https://img.shields.io/github/followers/HarbingerOfFire?label=Follow&style=social)](https://github.com/HarbingerOfFire)<br>
+<a href="#">
+  <p align="center">
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/python-dark.svg" width="50">
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/c-dark.svg" width="50">
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/bash-dark.svg" width="50">
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/powershell-dark.svg" width="50">
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/markdown-dark.svg" width="50">
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/mysql-dark.svg" width="50">
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/arduino-dark.svg" width="50">
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/archlinux-dark.svg" width="50"> 
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/kalilinux-dark.svg" width="50">
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/ubuntu.svg" width="50">
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/windows-dark.svg" width="50">
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/docker-dark.svg" width="50">
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/virtualbox-dark.svg" width="50">
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/vscode-dark.svg" width="50">
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/github-dark.svg" width="50">
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/stackoverflow-dark.svg" width="50">
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/protonmail-dark.svg" width="50">
+  </p>
+</a>
+
+
+
 ## About Me
 
 Hey there! I'm HarbingerOfFire, a self-taught back-end developer with a passion for security, encryption, and Python. When I'm not immersed in lines of code, you can usually find me exploring the latest trends in cybersecurity or tinkering with new encryption algorithms.
