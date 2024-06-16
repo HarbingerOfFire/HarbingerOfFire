@@ -10,10 +10,11 @@
     <img src="https://github.com/onemarc/tech-icons/blob/main/icons/mysql-dark.svg" width="50">
     <img src="https://github.com/onemarc/tech-icons/blob/main/icons/arduino-dark.svg" width="50">
     <img src="https://github.com/onemarc/tech-icons/blob/main/icons/archlinux-dark.svg" width="50"> 
-    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/kalilinux-dark.svg" width="50">
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/kalilinux-dark.svg" width="50"><br>
     <img src="https://github.com/onemarc/tech-icons/blob/main/icons/ubuntu.svg" width="50">
     <img src="https://github.com/onemarc/tech-icons/blob/main/icons/windows-dark.svg" width="50">
     <img src="https://github.com/onemarc/tech-icons/blob/main/icons/docker-dark.svg" width="50">
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/vmware-dark.svg" width="50">
     <img src="https://github.com/onemarc/tech-icons/blob/main/icons/virtualbox-dark.svg" width="50">
     <img src="https://github.com/onemarc/tech-icons/blob/main/icons/vscode-dark.svg" width="50">
     <img src="https://github.com/onemarc/tech-icons/blob/main/icons/github-dark.svg" width="50">
