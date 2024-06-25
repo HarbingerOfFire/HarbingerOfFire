@@ -72,3 +72,4 @@ While I don't have any social media profiles at the moment, you can always find 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harbingeroffire&theme=dark&hide_border=true" alt="HarbingerofFire's Streak" width="650" />
 </p>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
