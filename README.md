@@ -1,7 +1,6 @@
 # Hello, World! 👋
 [![Follow on GitHub](https://img.shields.io/github/followers/HarbingerOfFire?label=Follow&style=social)](https://github.com/HarbingerOfFire)<br>
-<a href="#">
-  <p align="center">
+<p align="center">
     <img src="https://github.com/onemarc/tech-icons/blob/main/icons/python-dark.svg" width="50">
     <img src="https://github.com/onemarc/tech-icons/blob/main/icons/c-dark.svg" width="50">
     <img src="https://github.com/onemarc/tech-icons/blob/main/icons/bash-dark.svg" width="50">
@@ -20,8 +19,7 @@
     <img src="https://github.com/onemarc/tech-icons/blob/main/icons/github-dark.svg" width="50">
     <img src="https://github.com/onemarc/tech-icons/blob/main/icons/stackoverflow-dark.svg" width="50">
     <img src="https://github.com/onemarc/tech-icons/blob/main/icons/protonmail-dark.svg" width="50">
-  </p>
-</a>
+</p>
 
 
 
@@ -61,7 +59,6 @@ While I don't have any social media profiles at the moment, you can always find 
 <sub><sub>Created mostly by chatGPT cause I don't want to write this out myself</sub></sub>
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/harbingeroffire/harbingeroffire/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/harbingeroffire/harbingeroffire/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=harbingeroffire" height="150" alt="stats graph"  />
