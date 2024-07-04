@@ -1,3 +1,12 @@
+<html>
+<style>
+  body{
+    background-color: #1f1f1f;
+  }
+</style>
+
+<body>
+
 # Hello, World! 👋
 [![Follow on GitHub](https://img.shields.io/github/followers/HarbingerOfFire?label=Follow&style=social)](https://github.com/HarbingerOfFire)<br>
 <p align="center">
@@ -69,3 +78,6 @@ While I don't have any social media profiles at the moment, you can always find 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harbingeroffire&theme=dark&hide_border=true" alt="HarbingerofFire's Streak" width="650" />
 </p>
+
+</body>
+</html>
