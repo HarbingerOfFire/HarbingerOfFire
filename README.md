@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -49,7 +48,7 @@
         <img src="./icons/powershell-dark.svg" width="50" alt="PowerShell" class="transparent-image">
         <img src="./icons/markdown-dark.svg" width="50" alt="Markdown" class="transparent-image">
         <img src="./icons/mysql-dark.svg" width="50" alt="MySQL" class="transparent-image">
-        <img src="./icons/arduino-dark.svg" width="50" alt="Arduino"class="transparent-image">
+        <img src="./icons/arduino-dark.svg" width="50" alt="Arduino" class="transparent-image">
         <img src="./icons/archlinux-dark.svg" width="50" alt="Arch Linux" class="transparent-image">
         <img src="./icons/kalilinux-dark.svg" width="50" alt="Kali Linux" class="transparent-image"><br>
         <img src="./icons/ubuntu.svg" width="50" alt="Ubuntu" class="transparent-image">
