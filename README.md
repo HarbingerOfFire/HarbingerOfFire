@@ -1,24 +1,24 @@
 # Hello, World! 👋
 [![Follow on GitHub](https://img.shields.io/github/followers/HarbingerOfFire?label=Follow&style=social)](https://github.com/HarbingerOfFire)<br>
 <p align="center">
-    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/python-dark.svg" width="50">
-    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/c-dark.svg" width="50">
-    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/bash-dark.svg" width="50">
-    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/powershell-dark.svg" width="50">
-    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/markdown-dark.svg" width="50">
-    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/mysql-dark.svg" width="50">
-    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/arduino-dark.svg" width="50">
-    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/archlinux-dark.svg" width="50"> 
-    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/kalilinux-dark.svg" width="50"><br>
-    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/ubuntu.svg" width="50">
-    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/windows-dark.svg" width="50">
-    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/docker-dark.svg" width="50">
-    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/vmware-dark.svg" width="50">
-    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/virtualbox-dark.svg" width="50">
-    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/vscode-dark.svg" width="50">
-    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/github-dark.svg" width="50">
-    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/stackoverflow-dark.svg" width="50">
-    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/protonmail-dark.svg" width="50">
+    <img src="./icons/python-dark.svg" width="50">
+    <img src="./icons/c-dark.svg" width="50">
+    <img src="./icons/bash-dark.svg" width="50">
+    <img src="./icons/powershell-dark.svg" width="50">
+    <img src="./icons/markdown-dark.svg" width="50">
+    <img src="./icons/mysql-dark.svg" width="50">
+    <img src="./icons/arduino-dark.svg" width="50">
+    <img src="./icons/archlinux-dark.svg" width="50"> 
+    <img src="./icons/kalilinux-dark.svg" width="50"><br>
+    <img src="./icons/ubuntu.svg" width="50">
+    <img src="./icons/windows-dark.svg" width="50">
+    <img src="./icons/docker-dark.svg" width="50">
+    <img src="./icons/vmware-dark.svg" width="50">
+    <img src="./icons/virtualbox-dark.svg" width="50">
+    <img src="./icons/vscode-dark.svg" width="50">
+    <img src="./icons/github-dark.svg" width="50">
+    <img src="./icons/stackoverflow-dark.svg" width="50">
+    <img src="./icons/protonmail-dark.svg" width="50">
 </p>
 
 
