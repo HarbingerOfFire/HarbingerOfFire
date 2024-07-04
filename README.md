@@ -18,6 +18,7 @@
         }
         .skills-icons img, .experience-icons img {
             margin: 5px;
+            background-color: transparent; /* Ensure the container background is transparent */
         }
         .about-section, .projects-section, .experience-section, .goals-section, .connect-section {
             margin: 20px;
@@ -26,6 +27,12 @@
             display: flex;
             justify-content: center;
         }
+      .transparent-image-container {
+            background-color: transparent; /* Ensure the container background is transparent */
+      }
+      .transparent-image {
+            background-color: transparent; /* Ensure the image background is transparent */
+      }
     </style>
 </head>
 <body>
@@ -36,24 +43,24 @@
         </a>
     </p>
     <div class="skills-icons" align="center">
-        <img src="./icons/python-dark.svg" width="50" alt="Python">
-        <img src="./icons/c-dark.svg" width="50" alt="C">
-        <img src="./icons/bash-dark.svg" width="50" alt="Bash">
-        <img src="./icons/powershell-dark.svg" width="50" alt="PowerShell">
-        <img src="./icons/markdown-dark.svg" width="50" alt="Markdown">
-        <img src="./icons/mysql-dark.svg" width="50" alt="MySQL">
-        <img src="./icons/arduino-dark.svg" width="50" alt="Arduino">
-        <img src="./icons/archlinux-dark.svg" width="50" alt="Arch Linux">
-        <img src="./icons/kalilinux-dark.svg" width="50" alt="Kali Linux">
-        <img src="./icons/ubuntu.svg" width="50" alt="Ubuntu">
-        <img src="./icons/windows-dark.svg" width="50" alt="Windows">
-        <img src="./icons/docker-dark.svg" width="50" alt="Docker">
-        <img src="./icons/vmware-dark.svg" width="50" alt="VMware">
-        <img src="./icons/virtualbox-dark.svg" width="50" alt="VirtualBox">
-        <img src="./icons/vscode-dark.svg" width="50" alt="VSCode">
-        <img src="./icons/github-dark.svg" width="50" alt="GitHub">
-        <img src="./icons/stackoverflow-dark.svg" width="50" alt="Stack Overflow">
-        <img src="./icons/protonmail-dark.svg" width="50" alt="ProtonMail">
+        <img src="./icons/python-dark.svg" width="50" alt="Python" class="transparent-image">
+        <img src="./icons/c-dark.svg" width="50" alt="C" class="transparent-image">
+        <img src="./icons/bash-dark.svg" width="50" alt="Bash" class="transparent-image">
+        <img src="./icons/powershell-dark.svg" width="50" alt="PowerShell" class="transparent-image">
+        <img src="./icons/markdown-dark.svg" width="50" alt="Markdown" class="transparent-image">
+        <img src="./icons/mysql-dark.svg" width="50" alt="MySQL" class="transparent-image">
+        <img src="./icons/arduino-dark.svg" width="50" alt="Arduino"class="transparent-image">
+        <img src="./icons/archlinux-dark.svg" width="50" alt="Arch Linux" class="transparent-image">
+        <img src="./icons/kalilinux-dark.svg" width="50" alt="Kali Linux" class="transparent-image"><br>
+        <img src="./icons/ubuntu.svg" width="50" alt="Ubuntu" class="transparent-image">
+        <img src="./icons/windows-dark.svg" width="50" alt="Windows" class="transparent-image">
+        <img src="./icons/docker-dark.svg" width="50" alt="Docker" class="transparent-image">
+        <img src="./icons/vmware-dark.svg" width="50" alt="VMware" class="transparent-image">
+        <img src="./icons/virtualbox-dark.svg" width="50" alt="VirtualBox" class="transparent-image">
+        <img src="./icons/vscode-dark.svg" width="50" alt="VSCode" class="transparent-image">
+        <img src="./icons/github-dark.svg" width="50" alt="GitHub" class="transparent-image">
+        <img src="./icons/stackoverflow-dark.svg" width="50" alt="Stack Overflow" class="transparent-image">
+        <img src="./icons/protonmail-dark.svg" width="50" alt="ProtonMail" class="transparent-image">
     </div>
     <div class="about-section">
         <h2>About Me</h2>
@@ -96,8 +103,8 @@
     <p align="center">
         <img src="https://komarev.com/ghpvc/?username=harbingeroffire" alt="Profile Views">
     </p>
-    <p align="center">
-        <img src="https://raw.githubusercontent.com/harbingeroffire/harbingeroffire/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="github contribution grid snake animation">
+    <p align="center" class="transparent-image-container">
+        <img class="transparent-image" src="https://raw.githubusercontent.com/harbingeroffire/harbingeroffire/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="github contribution grid snake animation">
     </p>
 </body>
 </html>
