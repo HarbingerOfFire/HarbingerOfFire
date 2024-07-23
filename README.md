@@ -26,6 +26,9 @@
 
 Hey there! I'm HarbingerOfFire, a self-taught back-end developer with a passion for security, encryption, and Python. When I'm not immersed in lines of code, you can usually find me exploring the latest trends in cybersecurity or tinkering with new encryption algorithms.
 
+## On the look for collaborators
+My recent big project has left me looking for some help. Checkout [BivittatusDB](https://github.com/harbingeroffire/bivittatusDB) to see if you can help. I would especially appricitate anyone with good amounts of database management or python frontend knowledge. 
+
 ### Key Skills
 
 - **Security:** Building robust systems with security in mind is my forte. From implementing encryption protocols to ensuring data integrity, I thrive on keeping things secure.
