@@ -47,7 +47,7 @@ My recent big project has left me looking for some help. Checkout [BivittatusDB]
 
 ### Experience
 
-With over 1.5 years of hands-on experience in the field, I've honed my skills and gained valuable insights into the world of back-end development and cybersecurity.
+With 2+ years of hands-on experience in the field, I've honed my skills and gained valuable insights into the world of back-end development and cybersecurity.
 
 ### Goals
 
