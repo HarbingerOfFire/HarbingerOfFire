@@ -61,9 +61,9 @@ While I don't have any social media profiles at the moment, you can always find 
 <sub><sub>Created mostly by chatGPT cause I don't want to write this out myself</sub></sub>
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/harbingeroffire/harbingeroffire/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
+<br>Centered div objects? What's so hard...<br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=harbingeroffire" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=harbingeroffire" height="150" alt="stats graph"  /><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&username=harbingeroffire" height="150" alt="languages graph"  />
 </div>
 
