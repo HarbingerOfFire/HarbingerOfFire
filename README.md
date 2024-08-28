@@ -1,7 +1,6 @@
 # Hello, World! 👋
 [![Follow on GitHub](https://img.shields.io/github/followers/HarbingerOfFire?label=Follow&style=social)](https://github.com/HarbingerOfFire)<br>
-NOTICE: TO ANYONE WHO GOT THE MEDIAFIRE LINK FROM ME:
-It was a malware service that automatically sent it. If you ran the file, please check you signed in sessions for any unknown logins.
+
 <p align="center">
     <img src="./icons/python-dark.svg" width="50">
     <img src="./icons/c-dark.svg" width="50">
