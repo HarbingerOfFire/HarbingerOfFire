@@ -1,6 +1,5 @@
-# Hello, World! 👋
+# 🔥 Welcome to My GitHub
 [![Follow on GitHub](https://img.shields.io/github/followers/HarbingerOfFire?label=Follow&style=social)](https://github.com/HarbingerOfFire)<br>
-
 <p align="center">
     <img src="./icons/python-dark.svg" width="50">
     <img src="./icons/c-dark.svg" width="50">
@@ -22,42 +21,36 @@
     <img src="./icons/protonmail-dark.svg" width="50">
 </p>
 
+> "The most likely way for the world to be destroyed, most experts agree, is by accident. That's where we come in; we're computer professionals. We cause accidents."
 
-## About Me
+Hello, I'm **HarbingerOfFire**—a passionate self-taught back-end developer focused on **Data Science**, **security**, **encryption**, and **Python**. My mission is to explore and contribute to the world of cybersecurity, creating robust systems with an emphasis on secure design and innovative cryptographic solutions. I've seemed to take a detour though... writing a Database Management System...
 
-Hey there! I'm HarbingerOfFire, a self-taught back-end developer with a passion for security, encryption, and Python. When I'm not immersed in lines of code, you can usually find me exploring the latest trends in cybersecurity or tinkering with new encryption algorithms.
+## 🔹 About Me
 
-## On the look for collaborators
-My recent big project has left me looking for some help. Checkout [BivittatusDB](https://github.com/harbingeroffire/bivittatusDB) to see if you can help. I would especially appricitate anyone with good amounts of database management or python frontend knowledge. 
+I’m a back-end developer with over 2 years of hands-on experience in building secure, reliable systems. My journey has revolved around securing data, implementing advanced encryption protocols, and coding complex back-end systems in Python.
 
-### Key Skills
+## 🔹 Skills
 
-- **Security:** Building robust systems with security in mind is my forte. From implementing encryption protocols to ensuring data integrity, I thrive on keeping things secure.
-  
-- **Encryption:** I love diving into the intricate world of encryption. Whether it's cracking hashes or designing new encryption standards, I'm always up for a cryptographic challenge.
-  
-- **Python:** Python is my weapon of choice when it comes to building powerful back-end systems. Anything you can think of, I can do it in python.
+- **Security**: Developing systems with a focus on security, from data integrity to robust encryption.
+- **Encryption**: Diving deep into cryptography, whether it's cracking hashes or designing encryption algorithms.
+- **Python**: My language of choice for building scalable back-end systems with speed and flexibility.
 
-### Notable Projects
+## 🔹 Notable Projects
 
-- **[Passploit](https://github.com/HarbingerOfFire/Passploit):** Ever heard of Hashcat? Well, Passploit is its Python counterpart. With Passploit, cracking hashes and testing password security has never been easier.
+1. **[BivittatusDB](https://github.com/BivittatusDB)**: A Python-based, operator-driven relational database management system offering an alternative to traditional DBMS.
+2. **Passploit**: A password security and exploitation tool inspired by Hashcat, built for testing password vulnerabilities.
+3. **RES**: An innovative encryption system contributing to the world of data privacy.
 
-- **[RES](https://github.com/HarbingerOfFire/RES):** In a world where data privacy is paramount, RES provides a novel approach to encryption. Developed entirely by yours truly, it's my humble contribution to the world of cryptography.
+## 🔹 Goals
 
-- **[BivittatusDB](https://github.com/HarbingerOfFire/bivittatusDB):** Tired of traditional database management systems? BivittatusDB offers a fresh perspective with its operator-based approach to managing data.
+Over the next year(s), I aim to:
+- Pursue certifications in **cybersecurity** and **advanced Python programming**
+- Explore **Post-Quantum Cryptography** and release new repositories in this field.
 
-### Experience
+## 🔹 Let's Connect
 
-With 2+ years of hands-on experience in the field, I've honed my skills and gained valuable insights into the world of back-end development and cybersecurity.
-
-### Goals
-
-In the next year, I'm aiming to bolster my expertise by obtaining a couple of certifications in cybersecurity and advanced Python programming.
-I'm also looking into Post-Quantum Cryptography, and I'll likely post a few repos on that as well.
-
-### Let's Connect!
-
-While I don't have any social media profiles at the moment, you can always find me here on GitHub. Stay tuned for updates, I might launch a personal website soon!
+Currently, GitHub is my primary platform for sharing and collaborating on projects, though I’m considering launching a personal website soon. Stay tuned for updates!
+I don't check it often, but if you prefer email: [harbingeroffire@proton.me](mailto:harbingeroffire@proton.me)
 
 <sub><sub>Created mostly by chatGPT cause I don't want to write this out myself</sub></sub>
 
