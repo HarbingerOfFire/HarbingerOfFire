@@ -3,9 +3,9 @@
 <p align="center">
     <img src="./icons/python-dark.svg" width="50">
     <img src="./icons/c-dark.svg" width="50">
+    <img src="./icons/asm-dark.svg" width="50">
     <img src="./icons/bash-dark.svg" width="50">
     <img src="./icons/powershell-dark.svg" width="50">
-    <img src="./icons/markdown-dark.svg" width="50">
     <img src="./icons/mysql-dark.svg" width="50">
     <img src="./icons/arduino-dark.svg" width="50">
     <img src="./icons/archlinux-dark.svg" width="50"> 
